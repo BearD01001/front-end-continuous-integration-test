@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HiDino9/front-end-continuous-integration-test/issues"
   },
-  "homepage": "https://github.com/HiDino9/front-end-continuous-integration-test#readme"
+  "homepage": "https://github.com/HiDino9/front-end-continuous-integration-test#readme",
+  "devDependencies": {
+    "codecov": "^1.0.1"
+  }
 }
