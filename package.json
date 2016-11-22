@@ -4,7 +4,7 @@
   "description": "前端持续化集成学习&amp;测试仓库",
   "main": "js/test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node js/test"
   },
   "repository": {
     "type": "git",
